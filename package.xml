@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>ompl_informed</name>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <description>OMPL is a free sampling-based motion planning library.</description>
   <maintainer email="isucan@willowgarage.com">Ioan Sucan</maintainer>
   <license>BSD</license>
@@ -13,7 +13,7 @@
   <author>Kavraki Lab</author>
 
   <buildtool_depend>cmake</buildtool_depend>
-
+  
   <build_depend>cmake</build_depend>
   <build_depend>boost</build_depend>
   <build_depend>eigen</build_depend>
