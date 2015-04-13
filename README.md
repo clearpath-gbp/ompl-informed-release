@@ -1,3 +1,24 @@
+## ompl_informed (indigo) - 0.0.4-0
+
+The packages in the `ompl_informed` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo ompl_informed` on `Mon, 13 Apr 2015 19:00:45 -0000`
+
+The `ompl_informed` package was released.
+
+Version of package(s) in repository `ompl_informed`:
+- upstream repository: https://github.com/clearpathrobotics/ompl-informed.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## ompl_informed (hydro) - 0.0.4-0
 
 The packages in the `ompl_informed` repository were released into the `hydro` distro by running `/usr/local/bin/bloom-release -r hydro -t hydro ompl_informed` on `Fri, 20 Mar 2015 21:26:27 -0000`
